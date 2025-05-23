@@ -4,3 +4,4 @@ st.title("selamat datang di web neisha")
 st.write(
     "ngoding seru"
 )
+st.image("gambarku.jpg")
